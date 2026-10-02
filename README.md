@@ -140,7 +140,7 @@ public void jalankan() {
 }
 ```
 
-![Alur utama program dari awal hingga akhir](gambar/alur-utama.png)
+![Alur utama program dari awal hingga akhir](gambar/menu-utama.png)
 
 ---
 
@@ -336,8 +336,6 @@ Berkat encapsulation, fitur **Ganti Ruangan** bisa berjalan aman:
 p.setRuangan(ruanganBaru);  // mengganti ruangan lewat setter, bukan akses langsung ke field
 ```
 
-![Ilustrasi encapsulation pada class model](gambar/encapsulation.png)
-
 ---
 
 ### Inheritance
@@ -453,8 +451,6 @@ public class PeminjamEksternal extends Peminjam {
 }
 ```
 
-![Diagram hierarki inheritance dua hierarki](gambar/inheritance.png)
-
 ---
 
 ## Polymorphism dan Abstraction
@@ -521,7 +517,6 @@ public abstract class Peminjam {
 
 Abstraction memungkinkan `PeminjamanController` dan `peminjamanView` bekerja dengan tipe umum `Ruangan` dan `Peminjam` tanpa perlu tahu detail subclass yang sesungguhnya — controller cukup memanggil `getJenisRuangan()` atau `getIdentitas()`, dan implementasi yang tepat akan berjalan secara otomatis.
 
-![Ilustrasi abstract class dan abstract method](gambar/abstraction.png)
 
 ---
 
@@ -674,8 +669,6 @@ daftarPeminjaman.add(new Peminjaman(peminjam2, "Seminar Tugas Akhir", 1002, ruan
 ```
 
 Ketika kedua data ini ditampilkan lewat `tampilkanStatus()`, **baris kode yang sama** menghasilkan output yang berbeda — inilah inti dari polymorphism.
-
-![Output berbeda untuk setiap kombinasi subclass](gambar/polymorphism.png)
 
 ---
 
