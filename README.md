@@ -105,8 +105,6 @@ Peminjamanruangan (main)
                         └──► Jadwal
 ```
 
-![Diagram struktur package MVC](gambar/struktur-package.png)
-
 ---
 
 ## Alur Program
