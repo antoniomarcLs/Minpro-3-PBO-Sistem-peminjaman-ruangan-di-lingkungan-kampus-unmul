@@ -1,7 +1,12 @@
 /home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/Peminjamanruangan.java
+/home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/View/peminjamanView.java
+/home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/controller/PeminjamanController.java
 /home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/Jadwal.java
+/home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/KelasTeori.java
 /home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/Laboratorium.java
 /home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/MeetingRoom.java
+/home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/Peminjam.java
+/home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/PeminjamEksternal.java
+/home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/PeminjamInternal.java
 /home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/Peminjaman.java
 /home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/Ruangan.java
-/home/kila/NetBeansProjects/Peminjamanruangan/src/main/java/com/mycompany/peminjamanruangan/model/Services.java
